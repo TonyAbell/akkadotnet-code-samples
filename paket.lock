@@ -1,0 +1,70 @@
+NUGET
+  remote: https://nuget.org/api/v2
+  specs:
+    Akka (1.0.1)
+      Newtonsoft.Json (>= 6.0.8)
+    Akka.Cluster (1.0.1-pre1504282013) - framework: >= net45
+      Akka.Remote (>= 1.0.1)
+      Google.ProtocolBuffers (>= 2.4.1.521)
+      Microsoft.Bcl.Immutable (>= 1.0.34)
+    Akka.Remote (1.0.1) - framework: >= net45
+      Akka (>= 1.0.1)
+      Google.ProtocolBuffers (>= 2.4.1.521)
+      Helios (>= 1.4.0)
+    Antlr (3.4.1.9004) - framework: >= net45
+    bootstrap (3.0.0) - framework: >= net45
+      jQuery (>= 1.9.0)
+    FAKE (3.31.0)
+    Google.ProtocolBuffers (2.4.1.521) - framework: >= net45
+    Helios (1.4.0) - framework: >= net45
+    HtmlAgilityPack (1.4.9) - framework: >= net45
+    jQuery (1.10.2) - framework: >= net45
+    jQuery.Validation (1.11.1) - framework: >= net45
+      jQuery (>= 1.4.4)
+    knockoutjs (3.3.0) - framework: >= net45
+    Microsoft.AspNet.Mvc (5.2.0) - framework: >= net45
+      Microsoft.AspNet.Razor (>= 3.2.0 < 3.3.0)
+      Microsoft.AspNet.WebPages (>= 3.2.0 < 3.3.0)
+    Microsoft.AspNet.Razor (3.2.0) - framework: >= net45
+    Microsoft.AspNet.SignalR (2.2.0) - framework: >= net45
+      Microsoft.AspNet.SignalR.JS (>= 2.2.0)
+      Microsoft.AspNet.SignalR.SystemWeb (>= 2.2.0)
+    Microsoft.AspNet.SignalR.Core (2.2.0) - framework: >= net45
+      Microsoft.Owin (>= 2.1.0)
+      Microsoft.Owin.Security (>= 2.1.0)
+      Newtonsoft.Json (>= 6.0.4)
+      Owin (>= 1.0)
+    Microsoft.AspNet.SignalR.JS (2.2.0) - framework: >= net45
+      jQuery (>= 1.6.4)
+    Microsoft.AspNet.SignalR.SystemWeb (2.2.0) - framework: >= net45
+      Microsoft.AspNet.SignalR.Core (>= 2.2.0)
+      Microsoft.Owin.Host.SystemWeb (>= 2.1.0)
+    Microsoft.AspNet.Web.Optimization (1.1.3) - framework: >= net45
+      Microsoft.Web.Infrastructure (>= 1.0.0)
+      WebGrease (>= 1.5.2)
+    Microsoft.AspNet.WebPages (3.2.0) - framework: >= net45
+      Microsoft.AspNet.Razor (>= 3.2.0 < 3.3.0)
+      Microsoft.Web.Infrastructure (>= 1.0.0.0)
+    Microsoft.Bcl.Immutable (1.0.34) - framework: >= net45
+    Microsoft.jQuery.Unobtrusive.Validation (3.2.0) - framework: >= net45
+      jQuery (>= 1.8)
+      jQuery.Validation (>= 1.8)
+    Microsoft.Owin (2.1.0) - framework: >= net45
+      Owin (>= 1.0)
+    Microsoft.Owin.Host.SystemWeb (2.1.0) - framework: >= net45
+      Microsoft.Owin (>= 2.1.0) - framework: >= net40, >= net45
+      Owin (>= 1.0) - framework: >= net40, >= net45
+    Microsoft.Owin.Security (2.1.0) - framework: >= net45
+      Microsoft.Owin (>= 2.1.0)
+      Owin (>= 1.0)
+    Microsoft.Web.Infrastructure (1.0.0.0) - framework: >= net45
+    Modernizr (2.6.2) - framework: >= net45
+    Newtonsoft.Json (6.0.8) - framework: >= net45
+    NuGet.CommandLine (2.8.3)
+    Owin (1.0) - framework: >= net45
+    qdfeed (1.1.0) - framework: >= net45
+    Respond (1.2.0) - framework: >= net45
+    Topshelf (3.1.4) - framework: >= net45
+    WebGrease (1.5.2) - framework: >= net45
+      Antlr (>= 3.4.1.9004)
+      Newtonsoft.Json (>= 5.0.4)

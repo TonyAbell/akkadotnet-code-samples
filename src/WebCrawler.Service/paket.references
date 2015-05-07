@@ -1,0 +1,9 @@
+Akka
+Akka.Cluster
+Akka.Remote
+Google.ProtocolBuffers
+Helios
+HtmlAgilityPack
+Microsoft.Bcl.Immutable
+Newtonsoft.Json
+Topshelf
